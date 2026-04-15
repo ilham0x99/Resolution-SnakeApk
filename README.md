@@ -1,4 +1,4 @@
-# Resolution-Snake.apk
+# Resolution-SnakeApk
 
 # Rapport de Laboratoire : Challenge Snake (PwnSec CTF)
 ## 1. Objectif du Challenge
