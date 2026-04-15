@@ -107,6 +107,8 @@ adb shell am start -n com.pwnsec.snake/.MainActivity -e SNAKE BigBoss
 ### 5.2 Capture du Flag (Logcat)
 Le flag est extrait en filtrant les logs avec le tag `PWNSEC`.
 
+<img width="927" height="100" alt="image" src="https://github.com/user-attachments/assets/d030f298-c657-4fb7-b7f9-e8a758c7336b" />
+
 
 ---
 
